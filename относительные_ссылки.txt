@@ -1,0 +1,14 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Мой сайт!!1</title>
+    <meta charset="UTF-8">
+    <link href="file:///C:/Users/admin/Desktop/Мой%20сайт/index.css" rel="stylesheet">
+    <link href="file:///C:/Users/admin/Desktop/Мой%20сайт/css/normalize.css" rel="stylesheet">
+</head>
+<body>
+    <h1>Мама, я в интернете!</h1>
+    <img src="file:///C:/Users/admin/Desktop/Мой%20сайт/img/picture.jpg" title="Ето я">
+</body>
+</html>
